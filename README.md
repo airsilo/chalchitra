@@ -79,7 +79,6 @@ Requires **Python 3.11+** and **Git**.
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/airsilo/chalchitra.git
 cd chalchitra
 2. Get the mpv engine
@@ -177,3 +176,4 @@ Before opening an issue, please check the existing issues to avoid duplicates.
 Made by AirSilo
 
 </div> ```
+
